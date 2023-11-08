@@ -1,1 +1,1 @@
-# python.basisdata
+# python-basis-data
